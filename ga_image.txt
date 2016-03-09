@@ -1,0 +1,1 @@
+{"searchbar_btn_back":"http:\/\/150.50.89.68:8080\/gasc\/searchbar_btn_back.jpg","bannerProduct_productLayout":"http:\/\/150.50.89.68:8080\/gasc\/bannerProduct_productLayout.jpg","pd_1_tab3_text":"http:\/\/150.50.89.68:8080\/gasc\/pd_1_tab3_text.jpg"}
